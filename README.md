@@ -1,11 +1,3 @@
-
-**Contact Information:**
-- LinkedIn: [linkedin.com/in/hassanakram-n](https://www.linkedin.com/in/hassanakram-n)
-- Portfolio: [hassanakram.vercel.app/](https://hassanakram.vercel.app/)
-- Phone: 03047955183 (Mobile)
-- Address: Lahore, Punjab, Pakistan
-- Email: hassanakram.n@gmail.com
-
 **About:**
 I am a highly skilled and experienced developer with a passion for building scalable, reliable, and user-friendly applications. I am proficient in a wide range of technologies, including React, React Native, Next.js, JavaScript, TypeScript, HTML, CSS, and JSX. I am also well-versed in modern frameworks and libraries, such as Bootstrap, Material UI, React Native Paper, Redux, and React Router. I have extensive experience working with cloud services, such as Firebase and GitLab.
 
@@ -45,3 +37,10 @@ If you are looking for a developer who is passionate about their work and has a 
 I have contributed to several publications related to my work, including the development of mobile apps and web applications using technologies like React Native, React.js, and Next.js. These publications showcase my expertise in building user-friendly and performance-driven applications.
 
 If you are looking for a developer with a solid technical background and a passion for building innovative applications, I am an excellent candidate to consider for your projects.
+
+**Contact Information:**
+- LinkedIn: [linkedin.com/in/hassanakram-n](https://www.linkedin.com/in/hassanakram-n)
+- Portfolio: [hassanakram.vercel.app/](https://hassanakram.vercel.app/)
+- Phone: 03047955183 (Mobile)
+- Address: Lahore, Punjab, Pakistan
+- Email: hassanakram.n@gmail.com
