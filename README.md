@@ -1,5 +1,5 @@
 # Muhammad HASSAN
-**NextJs, || ReactJs && React Native || JavaScript && TypeScript**
+**NextJs | ReactJs | React Native | JavaScript | TypeScript**
 
 - Phone: +92 304 7955183
 - Email: hassanakram.n@gmail.com
@@ -9,10 +9,11 @@
 Experienced developer with 3+ years of expertise in building scalable applications using React, React Native, Next.js, and modern frameworks. Skilled in enhancing functionality through cloud services like Firebase and GitLab, ensuring high-quality solutions that prioritize user experience.
 
 ## EXPERIENCE
-**Web & Mobile App Developer — SCHIOLAR DEN, Inc.** | 2022 - Present
+**Web & Mobile App Developer — SCHOLAR DEN, Inc.** | 2022 - Present
 - ScholarDen Main Web App
 - ScholarDen Vocabulary App (Android & iOS)
 - ScholarDen Blogs
+
 **React Developer — SALDIRI** | 2020 - 2022
 - Siraan App (Android)
 - Sell Any Wheel
