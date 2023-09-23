@@ -46,7 +46,6 @@ Scholar Den, Inc. is a product owner company that helps students crack the GRE e
 **React Developer — SALDIRI**
 2020 - 2022
 
-As a seasoned React JS and React Native Developer at Saldiri, I bring a wealth of expertise in crafting visually appealing and user-centric UI/UX interfaces, coupled with seamless integration of REST APIs. With a steadfast commitment to excellence, I excel in fulfilling my core development responsibilities and serve as a trusted mentor to react interns and junior developers, guiding and empowering them to overcome challenges and optimize their work. By actively resolving queries and errors, I foster a collaborative and growth-driven environment, ensuring the delivery of high-quality solutions that precisely align with business objectives. I continually stay abreast of the latest industry trends and technologies to remain at the forefront of innovation, enabling me to consistently deliver cutting-edge solutions that exceed expectations.
 
 ## EDUCATION
 - BS in Computer Science — VIRTUAL UNIVERSITY
@@ -57,55 +56,10 @@ As a seasoned React JS and React Native Developer at Saldiri, I bring a wealth o
   2017-2019
 
 ## LANGUAGES
-- HTML
-- CSS
-- JavaScript
-- Typescript
+- Typescript - JavaScript - HTML - CSS
 
 ## LIBRARIES/ FRAMEWORKS
-- React Js
-- Next Js
-- React Native
-- Redux
-- Axios
-- Material UI
-- ReactNative Paper
-- React Bootstrap
-- Bootstrap
+- ReactJs - NextJs - React Native - Redux - Axios - Material UI - React Native Paper - Bootstrap
 
 ## OTHERS
-- Git
-- Git Lab
-- Bitbucket
-- Firebase
-- Play Store
-- App Store Connect
-- React Hooks
-- React Native Element
-- React Lifecycle
-- Firebase Database
-- Firebase Auth
-- Vercel Hosting
-- OneSignal
-- Stripe
-- Paypal
-- ChatGPT (GPT 3.5)
-
-## LEARNING GOALS
-- NodeJs
-- AI Development
-- MongoDB
-- REST API Development
-- VueJs
-
-## INTEREST & HOBBIES
-- Coding/ Programming
-- Learning New Tech
-- Traveling
-- AI
-
-**Nawab town, Lahore**
-**Phone:** +92 304 7955183
-**Email:** hassanakram.n@gmail.com
-[LinkedIn](linkedin.com/in/hassanakram-n)
-[GitHub](github.com/hassanakram-n)
+- Git - Git Lab - Bitbucket - Firebase - Vercel Hosting - Play Store - App Store Connect - OneSignal - Stripe - Paypal - ChatGPT (GPT 3.5)
