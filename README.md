@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">- **Dedicated Software Developer:** Experienced and dedicated software developer with a strong technical background.<br><br>- **Versatile Expertise:** Proficient in a variety of technologies including React, React Native, Next.js, TypeScript, and Firebase.<br><br>- **Academic Pursuits:** Currently pursuing a Bachelor's degree in Computer Science from the Virtual University of Pakistan.<br><br>- **Project Contributions:** Demonstrated success in contributing to diverse web and mobile application projects.<br><br>- **Problem-solving Skills:** Possesses strong problem-solving abilities and adaptability to different technology stacks.<br><br>- **Continuous Learner:** Committed to continuous learning and actively engages with developer communities.<br><br>- **Team Player:** Emphasizes collaboration and teamwork, contributing effectively in cross-functional settings.<br><br>- **Pragmatic Approach:** Adopts a practical and adaptable approach to software development, focusing on real-world solutions.</p>
 
 ###
 
