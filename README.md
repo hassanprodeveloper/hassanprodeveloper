@@ -1,22 +1,74 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hassan the Pro Developer</h1>
-<h3 align="center">A passionate Full Stack Pro Developer</h3>
+# Muhammad Hassan
+**Senior React & React Native Developer | TypeScript | Next.js | TailwindCSS**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanprodeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="hassanprodeveloper" /> </p>
+---
 
-- 🔭 I’m currently working on [Code Aesthetics](https://codeaesthetics.net)
+### About Me
+I'm a passionate Frontend Engineer with 5+ years of experience building scalable web and mobile applications.  
+Currently working at **CodeELS (UAE)** as a **MERN Stack Developer**, where I lead the development of high-performance React and React Native applications.  
+I specialize in building products that merge elegant design with robust architecture using **TypeScript**, **React**, **Next.js**, and **React Native**.
 
-- 🌱 I’m currently learning **nodeJs, expressJs & mongoDb**
+Previously, I’ve worked at **Code Aesthetics** and **Scholar Den**, contributing to large-scale products in EdTech, e-commerce, and content platforms.
 
-- 📫 How to reach me **hassanprodeveloper@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hassanprodeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassanprodeveloper" height="30" width="40" /></a>
-</p>
+### Tech Stack
+**Frontend:** React.js, React Native, Next.js, Redux Toolkit, Zustand, React Query, TailwindCSS, Material UI  
+**Backend & Database:** Node.js, Express.js, Drizzle ORM, MongoDB, Firebase, Supabase  
+**Other Tools:** TypeScript, JavaScript (ES6+), Git, Vercel, RevenueCat, Zego Cloud, RTK Query  
+**Specialties:** Scalable Architecture, UI/UX Implementation, Cross-platform Development, Payment Integration, AI-driven Apps  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background:#fff;"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanprodeveloper&show_icons=true&locale=en&layout=compact" alt="hassanprodeveloper" /></p>
+### Notable Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanprodeveloper&" alt="hassanprodeveloper" /></p>
+#### Quran Application | MERN Stack & React Native Developer — *CodeELS (2025–Present)*
+- Architected and developed a cross-platform Quran app using **React Native (Expo, TypeScript)** and **Next.js (App Router)** with a MERN-based backend.
+- Implemented **AI-powered Quran chatbot**, high-quality audio playback, offline support, and **subscription handling via RevenueCat**.
+- Managed a small team, conducted code reviews, and deployed production builds to both **App Store** and **Play Store**.
+- Integrated **Supabase Auth**, **SQLite**, and **Zustand** for offline and real-time functionality.
+
+**Tech Stack:** React Native, Next.js, Zustand, Supabase, Drizzle ORM, TypeScript, RevenueCat
+
+---
+
+#### MatesLive & MShop Ecosystem (Web Portals Suite) — *CodeELS (2024–2025)*
+- Designed and developed a complete suite of web portals for the **MatesLive** social and e-commerce ecosystem.
+- Built secure payment integrations with **EasyPaisa, JazzCash, Telr, Tap, and Mate Wallet**.
+- Implemented **role-based access control**, real-time dashboards, and multi-portal management.
+- Delivered scalable **Next.js** portals handling **$1M+ in transactions** and thousands of daily active users.
+
+**Tech Stack:** React, Next.js, Redux, TypeScript, TailwindCSS, Firebase, React Query, Zego Cloud
+
+---
+
+#### Nemrah Ahmad LMS Ecosystem — *Code Aesthetics (2024)*
+- Built a cross-platform LMS mobile app using **React Native, Redux Toolkit, and RTK Query**.
+- Integrated **Apple In-App Purchases**, **Firebase push notifications**, and a **Lexical-based book reader** with synchronized audio.
+- Developed a **Next.js web portal** and **admin dashboard** with role-based access and content management.
+
+**Tech Stack:** React Native, Redux Toolkit, RTK Query, Lexical, Firebase, Next.js, TypeScript
+
+---
+
+### Education
+**Bachelor of Science (BS) in Computer Science**  
+Virtual University of Pakistan (2019–2023)
+
+**Certification:** Web & Mobile Hybrid Application Development — SMIT (2019–2020)
+
+---
+
+### Contact
+📧 **Email:** hassanprodeveloper@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/hassanprodeveloper](https://linkedin.com/in/hassanprodeveloper)  
+💻 **GitHub:** [github.com/hassanprodeveloper](https://github.com/hassanprodeveloper)
+
+---
+
+### GitHub Stats
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanprodeveloper&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanprodeveloper&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanprodeveloper)
+
+---
