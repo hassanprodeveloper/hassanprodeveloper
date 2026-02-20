@@ -16,9 +16,15 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** with **5+ years of experience** specializing in building scalable web and mobile applications. I transform complex problems into elegant solutions that make a real impact.
+I’m a Senior Frontend & Mobile Engineer specializing in building high-performance, scalable apps with React, React Native, and Next.js. With over 5 years of experience, I bridge the gap between complex product requirements and production-ready architecture
 
-Currently leading development at **CodeELS (UAE)** as a **Senior React & React Native Developer**, where I architect cross-platform applications serving thousands of users globally.
+I don't just write code, I build predictable systems. From leading architectural discussions and mentoring teams to optimizing SSR and native mobile performance, I focus on delivering quality that scales
+
+Core Expertise:
+‣ Architecture & Leadership: Expert in reusable components, design patterns, and leading teams through Agile workflows
+‣ Performance Engineering: Advanced use of code splitting, lazy loading, and runtime optimization to ensure fast, responsive UX
+‣ Complex Integrations: Proficient in REST, WebSockets, and E2EE protocols (Matrix), with secure state management via Zustand or Redux
+‣ Mobile Mastery: Full-cycle development from Figma-to-code to App Store deployment, including offline storage and native API optimization
 
 💡 **Philosophy:** Clean code, thoughtful design, and continuous learning drive everything I do.
 
