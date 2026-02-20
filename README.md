@@ -2,7 +2,7 @@
 
 # 👋 Hassan Pro Developer
 
-### Senior React & React Native Developer | Full Stack Engineer
+### Senior Frontend Engineer | Figma-to-Code | Mobile & Web Architecture | From MVP Development to App Store Deployment
 
 *Building modern, scalable applications that bridge complex technology with user-friendly experiences*
 
