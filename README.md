@@ -2,7 +2,7 @@
 
 # 👋 Hassan Pro Developer
 
-### Senior Frontend Engineer | Figma-to-Code | Mobile & Web Architecture | From MVP Development to App Store Deployment
+### Senior React | React Native Developer
 
 *Building modern, scalable applications that bridge complex technology with user-friendly experiences*
 
@@ -14,19 +14,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I’m a Senior Frontend & Mobile Engineer specializing in building high-performance, scalable apps with React, React Native, and Next.js. With over 5 years of experience, I bridge the gap between complex product requirements and production-ready architecture
+Senior Frontend & Mobile Engineer with 5+ years of experience leading
+teams and delivering end to end web and mobile products. I manage the full
+lifecycle from client requirements to clean architecture, reusable
+components, performance optimization, and stable production releases.
+I reduced build time by 30% and cut redundant code by 40% through
+structured refactoring and smarter workflows, while keeping code quality
+non negotiable. I learn fast and use AI daily for analysis, debugging support,
+refactor planning, and documentation to ship faster without sacrificing
+maintainability.
 
-I don't just write code, I build predictable systems. From leading architectural discussions and mentoring teams to optimizing SSR and native mobile performance, I focus on delivering quality that scales
-
-Core Expertise:
-‣ Architecture & Leadership: Expert in reusable components, design patterns, and leading teams through Agile workflows
-‣ Performance Engineering: Advanced use of code splitting, lazy loading, and runtime optimization to ensure fast, responsive UX
-‣ Complex Integrations: Proficient in REST, WebSockets, and E2EE protocols (Matrix), with secure state management via Zustand or Redux
-‣ Mobile Mastery: Full-cycle development from Figma-to-code to App Store deployment, including offline storage and native API optimization
-
-💡 **Philosophy:** Clean code, thoughtful design, and continuous learning drive everything I do.
+**Philosophy:** Clean code, thoughtful design, and continuous learning drive everything I do.
 
 ---
 
@@ -37,19 +37,21 @@ timeline
     title Career Timeline
     2020-2022 : React Developer @ Saldiri
               : Built responsive UIs with React & React Native
-    2022-2024 : Full Stack Developer @ Scholar Den
+    2022-2024 : Full Stack Frontend Developer @ Scholar Den
               : Led EdTech platform development
-    2024      : Mid-Level Senior React Developer @ Code Aesthetics
+    2024      : Senior React Developer @ Code Aesthetics
               : Cross-platform mobile applications
     2024-Present : Senior React & React Native Developer @ CodeELS
                  : Leading scalable app architecture (Remote - UAE)
 ```
 
 ### 🎯 Current Role: CodeELS (Sep 2024 - Present)
-- Leading development of scalable web and mobile applications
-- Architecting cross-platform solutions with React and React Native
-- Managing technical teams and conducting code reviews
-- Remote collaboration with international teams
+- Lead end-to-end delivery from requirements to production
+- Collaborate in Agile Scrum with cross-functional teams
+- Build scalable React & Next.js applications
+- Develop reliable payment flows handling $1M+ monthly transactions
+- Reduced build time by 30% and code redundancy by 40%
+- Mentor developers and improve delivery workflows
 
 ---
 
@@ -71,13 +73,9 @@ timeline
 ![RTK Query](https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 ### **Tools & Services**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -89,24 +87,18 @@ timeline
 
 ## 🌟 Featured Projects
 
-### 🕌 [Quran Application](https://hassanprodeveloper.com/projects/quran-application)
-**MERN Stack & React Native** | *CodeELS (2025-Present)*
+### 🕌 [Quran Application (AI-Powered Audio & Text Sync)](https://hassanprodeveloper.com/projects/quran-application)
+**Role: Lead Mobile Developer** | *CodeELS (2025-Present)*
 
-A comprehensive cross-platform Quranic platform with AI-powered assistance.
-
-**Key Features:**
-- 🤖 AI-powered Quran chatbot for interactive learning
-- 📱 Cross-platform (iOS & Android) with offline support
-- 🎵 High-quality audio playback with synchronization
-- 💳 Subscription management via RevenueCat
-- 🔐 Secure authentication with Supabase Auth
-
-**Tech:** React Native (Expo), Next.js, TypeScript, Supabase, Drizzle ORM, Zustand, SQLite
+- Developed a mobile app with real time AI interactions using streaming responses, focusing on stable UX and low latency updates.
+- Built audio playback with synchronized text highlighting for a consistent learning experience and accurate content alignment.
+- Implemented location based prayer notifications with reliable scheduling and permission handling.
+- Improved performance for heavy text screens using FlashList and local storage caching patterns to keep scrolling smooth.
 
 ---
 
-### 🛍️ [MatesLive & MShop Ecosystem](https://hassanprodeveloper.com/projects/mateslive-mshop-ecosystem)
-**Multi-Portal Suite** | *CodeELS (2024-2025)*
+### 🛍️ [MatesLive & MShop (Social & E-commerce Ecosystem)](https://hassanprodeveloper.com/projects/mateslive-mshop-ecosystem)
+**Role: Lead Frontend Engineer** | *CodeELS (2024-2025)*
 
 A complete suite of web portals for social networking and e-commerce.
 
