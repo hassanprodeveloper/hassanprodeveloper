@@ -30,7 +30,7 @@ maintainability.
 
 ---
 
-## 💼 Professional Journey
+## Professional Journey
 
 ```mermaid
 timeline
@@ -45,7 +45,7 @@ timeline
                  : Leading scalable app architecture (Remote - UAE)
 ```
 
-### 🎯 Current Role: CodeELS (Sep 2024 - Present)
+### Current Role: CodeELS (Sep 2024 - Present)
 - Lead end-to-end delivery from requirements to production
 - Collaborate in Agile Scrum with cross-functional teams
 - Build scalable React & Next.js applications
@@ -55,7 +55,7 @@ timeline
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend Expertise**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -85,7 +85,7 @@ timeline
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 🕌 [Quran Application (AI-Powered Audio & Text Sync)](https://hassanprodeveloper.com/projects/quran-application)
 **Role: Lead Mobile Developer** | *CodeELS (2025-Present)*
@@ -97,7 +97,7 @@ timeline
 
 ---
 
-### 🛍️ [MatesLive & MShop (Social & E-commerce Ecosystem)](https://hassanprodeveloper.com/projects/mateslive-mshop-ecosystem)
+### [MatesLive & MShop (Social & E-commerce Ecosystem)](https://hassanprodeveloper.com/projects/mateslive-mshop-ecosystem)
 **Role: Lead Frontend Engineer** | *CodeELS (2024-2025)*
 
 A complete suite of web portals for social networking and e-commerce.
@@ -113,7 +113,7 @@ A complete suite of web portals for social networking and e-commerce.
 
 ---
 
-### 📚 [Nemrah Ahmad LMS Ecosystem](https://hassanprodeveloper.com/projects/nemrah-ahmad-lms)
+### [Nemrah Ahmad LMS Ecosystem](https://hassanprodeveloper.com/projects/nemrah-ahmad-lms)
 **Learning Management System** | *Code Aesthetics (2024)*
 
 A comprehensive LMS with IP-protected content and synchronized learning.
@@ -129,7 +129,7 @@ A comprehensive LMS with IP-protected content and synchronized learning.
 
 ---
 
-### 💬 [Astra Chat](https://hassanprodeveloper.com/projects/astra-chat-decentralized-messaging)
+### [Astra Chat](https://hassanprodeveloper.com/projects/astra-chat-decentralized-messaging)
 **Decentralized Messaging Platform**
 
 End-to-end encrypted messaging built on the Matrix protocol.
@@ -144,7 +144,7 @@ End-to-end encrypted messaging built on the Matrix protocol.
 
 ---
 
-### 📖 [Scholar Den Platform](https://hassanprodeveloper.com/projects/scholarden-ecosystem)
+### [Scholar Den Platform](https://hassanprodeveloper.com/projects/scholarden-ecosystem)
 **EdTech Platform** | *Scholar Den (2022-2024)*
 
 GRE preparation platform with secure payments and academic resources.
@@ -153,7 +153,7 @@ GRE preparation platform with secure payments and academic resources.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -167,7 +167,7 @@ GRE preparation platform with secure payments and academic resources.
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 **Bachelor of Science (BS) in Computer Science**  
 Virtual University of Pakistan (2019–2023)
@@ -177,7 +177,7 @@ Saylani Mass IT Training (SMIT) — 2019–2020
 
 ---
 
-## 💪 Core Competencies
+## Core Competencies
 
 ```javascript
 const hassanSkills = {
@@ -199,7 +199,7 @@ const hassanSkills = {
 
 ---
 
-## 🌍 Let's Connect
+## Let's Connect
 
 I'm always interested in collaborating on innovative projects and discussing new opportunities!
 
@@ -212,10 +212,10 @@ I'm always interested in collaborating on innovative projects and discussing new
 
 <div align="center">
 
-### 💡 *"Clean code, thoughtful design, and continuous learning drive everything I do."*
+### *"Clean code, thoughtful design, and continuous learning drive everything I do."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hassanprodeveloper&color=58A6FF&style=for-the-badge)
 
-**⭐ From [hassanprodeveloper](https://github.com/hassanprodeveloper)**
+**From [hassanprodeveloper](https://github.com/hassanprodeveloper)**
 
 </div>
