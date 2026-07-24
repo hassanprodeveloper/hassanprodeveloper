@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hassan Pro Developer
+# 👋 Muhammad Hassan
 
-### Senior React | React Native Developer
+### Senior Frontend & Mobile Engineer — React | React Native | Next.js
 
 *Building modern, scalable applications that bridge complex technology with user-friendly experiences*
 
@@ -37,34 +37,41 @@ timeline
     title Career Timeline
     2020-2022 : React Developer @ Saldiri
               : Built responsive UIs with React & React Native
-    2022-2024 : Full Stack Frontend Developer @ Scholar Den
+    2022-2024 : Full Stack Developer @ Scholar Den
               : Led EdTech platform development
     2024      : Senior React Developer @ Code Aesthetics
               : Cross-platform mobile applications
-    2024-Present : Senior React & React Native Developer @ CodeELS
-                 : Leading scalable app architecture (Remote - UAE)
+    2024-2026 : Senior React & React Native Developer @ CodeELS
+              : Scalable web & mobile apps (Remote - UAE)
+    2026-Present : Senior Mobile Engineer @ AmentoTech
+                 : Enterprise-grade React Native apps (Lahore - On-site)
 ```
 
-### Current Role: CodeELS (Sep 2024 - Present)
-- Lead end-to-end delivery from requirements to production
-- Collaborate in Agile Scrum with cross-functional teams
-- Build scalable React & Next.js applications
-- Develop reliable payment flows handling $1M+ monthly transactions
-- Reduced build time by 30% and code redundancy by 40%
-- Mentor developers and improve delivery workflows
+### Current Role: Senior Mobile Engineer @ AmentoTech (Jun 2026 - Present)
+- Lead end-to-end development of enterprise-grade mobile applications with React Native & Expo
+- Architect scalable, offline-capable solutions using TypeScript, Zustand, and React Query
+- Integrate real-time features including WebSockets and push notifications
+- Work across REST APIs and GraphQL with Firebase / Supabase backend services
+- Establish mobile best practices, CI/CD pipelines, and App Store / Play Store deployment workflows
+- Collaborate cross-functionally with product, design, and backend teams to ship secure, high-performance apps
+
+> **Previously @ CodeELS (Sep 2024 - Jun 2026, Remote - UAE):** Led scalable React & Next.js
+> apps, built reliable payment flows handling **$1M+** in transactions, reduced build time by 30%
+> and code redundancy by 40%, and mentored developers to improve delivery workflows.
 
 ---
 
 ## Tech Stack
 
-### **Frontend Expertise**
+### **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 ### **State Management & Data Fetching**
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -73,83 +80,102 @@ timeline
 ![RTK Query](https://img.shields.io/badge/RTK_Query-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **Real-time & Specialized**
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-0066FF?style=for-the-badge)
+![Lexical](https://img.shields.io/badge/Lexical-181818?style=for-the-badge)
 
 ### **Tools & Services**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-FF5733?style=for-the-badge)
 ![Zego Cloud](https://img.shields.io/badge/Zego_Cloud-0066FF?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### 🕌 [Quran Application (AI-Powered Audio & Text Sync)](https://hassanprodeveloper.com/projects/quran-application)
-**Role: Lead Mobile Developer** | *CodeELS (2025-Present)*
+### 🕌 [Quran AI App (AI-Powered Reading & Prayer Tracking)](https://hassanprodeveloper.com/projects/quran-ai)
+**Role: Lead MERN Stack & React Native Developer** | *Aug 2025 - Present*
 
-- Developed a mobile app with real time AI interactions using streaming responses, focusing on stable UX and low latency updates.
-- Built audio playback with synchronized text highlighting for a consistent learning experience and accurate content alignment.
-- Implemented location based prayer notifications with reliable scheduling and permission handling.
-- Improved performance for heavy text screens using FlashList and local storage caching patterns to keep scrolling smooth.
+- Architected a cross-platform Quranic platform with a MERN-based backend and a React Native (Expo) app.
+- Built an AI-powered chatbot with streaming responses, plus offline reading and daily streak systems.
+- Implemented offline-first persistence with SQLite and Zustand for a seamless no-network experience.
+- Handled subscriptions with RevenueCat and shipped to the Apple App Store and Google Play Store.
+
+**Tech:** React Native, Expo, TypeScript, Next.js, Node.js, Express.js, Drizzle ORM, Supabase, SQLite
 
 ---
 
-### [MatesLive & MShop (Social & E-commerce Ecosystem)](https://hassanprodeveloper.com/projects/mateslive-mshop-ecosystem)
-**Role: Lead Frontend Engineer** | *CodeELS (2024-2025)*
+### [MatesLive & MShop (Social & E-commerce Ecosystem)](https://hassanprodeveloper.com/projects/mate-ecosystem)
+**Role: Lead Frontend Engineer** | *Sep 2024 - Sep 2025*
 
 A complete suite of web portals for social networking and e-commerce.
 
 **Key Features:**
 - 💰 **$1M+ transactions** processed through integrated payment gateways
-- 🔐 Role-based access control across multiple portals
-- 📊 Real-time dashboards and analytics
-- 💳 Multiple payment integrations (EasyPaisa, JazzCash, Telr, Tap, Mate Wallet)
-- 👥 Thousands of daily active users
+- 🔐 Role-based access control across multiple portals (creators, agencies, merchants, admins)
+- 📊 Real-time dashboards and moderation tooling
+- 💳 Multiple payment integrations (EasyPaisa, JazzCash, Telr, Tap, Epay, Mate Wallet)
+- ⚡ SSR/SSG-optimized performance and SEO
 
 **Tech:** Next.js, Redux, TypeScript, TailwindCSS, Firebase, React Query, Zego Cloud
 
 ---
 
-### [Nemrah Ahmad LMS Ecosystem](https://hassanprodeveloper.com/projects/nemrah-ahmad-lms)
-**Learning Management System** | *Code Aesthetics (2024)*
+### 🔐 [Astra Chat (Decentralized Messaging Platform)](https://hassanprodeveloper.com/projects/astra-chat)
+**Role: Solo Lead Engineer** | *4-week delivery*
 
-A comprehensive LMS with IP-protected content and synchronized learning.
+End-to-end encrypted messaging built on the Matrix protocol — with **zero custom backend**.
 
 **Key Features:**
-- 📖 Lexical-based book reader with synchronized audio
+- 🔐 Full end-to-end encryption with device verification & key backup
+- 🌐 Decentralized Matrix protocol architecture (via a Rust-based SDK through Turbo Modules)
+- 📹 Voice & video calling powered by LiveKit
+- 🗄️ Secure local storage via OS Keychain
+
+**Tech:** React Native, Matrix Protocol, LiveKit, TypeScript, Zustand, SQLite
+
+---
+
+### [Nemrah Ahmad LMS](https://hassanprodeveloper.com/projects/nemrah-ahmad-lms)
+**Learning Management System** | *Code Aesthetics (Feb 2024 - Sep 2024)*
+
+A comprehensive, IP-protected LMS with synchronized audio-text reading. [📱 App Store](https://apps.apple.com/pk/app/nemrah-ahmad/id6504430475)
+
+**Key Features:**
+- 📖 Custom Lexical-based book reader with synchronized audio
 - 🍎 Apple In-App Purchases integration
 - 🔔 Firebase push notifications
-- 🎯 Role-based admin dashboard
-- 🔒 Content security and IP protection
+- 🔒 Content security with screen-capture prevention
 
 **Tech:** React Native, Redux Toolkit, RTK Query, Lexical, Firebase, Next.js, TypeScript
 
 ---
 
-### [Astra Chat](https://hassanprodeveloper.com/projects/astra-chat-decentralized-messaging)
-**Decentralized Messaging Platform**
+### [Scholar Den Platform](https://hassanprodeveloper.com/projects/scholarden-ecosystem)
+**EdTech Platform** | *Scholar Den (Mar 2022 - Feb 2024)*
 
-End-to-end encrypted messaging built on the Matrix protocol.
+GRE preparation platform with secure international payments and academic resources.
 
-**Key Features:**
-- 🔐 End-to-end encryption
-- 🌐 Decentralized architecture
-- 📹 WebRTC-based video conferencing
-- 🔒 Matrix protocol implementation
-
-**Tech:** React Native, Matrix Protocol, WebRTC, Rust, E2EE
+**Tech:** Next.js, Firebase, Stripe, PayPal, TypeScript, Tailwind CSS
 
 ---
 
-### [Scholar Den Platform](https://hassanprodeveloper.com/projects/scholarden-ecosystem)
-**EdTech Platform** | *Scholar Den (2022-2024)*
+### 🛠️ [React Mail Builder](https://hassanprodeveloper.com/projects/react-mail-builder) · *Open Source*
+**Drag-and-drop email template builder** with clean HTML export and responsive previews.
+[Live Demo](https://react-mail-builder.vercel.app/) · [GitHub](https://github.com/hassanprodeveloper/react-mail-builder)
 
-GRE preparation platform with secure payments and academic resources.
-
-**Tech:** Next.js, Firebase, Stripe, PayPal, Web Platform
+**Tech:** React, TypeScript, TailwindCSS
 
 ---
 
@@ -181,11 +207,11 @@ Saylani Mass IT Training (SMIT) — 2019–2020
 
 ```javascript
 const hassanSkills = {
-  architecture: ['Scalable Systems', 'Cross-platform Development', 'Microservices'],
-  frontend: ['React.js', 'Next.js', 'TypeScript', 'Responsive Design'],
+  architecture: ['Scalable Systems', 'Cross-platform Development', 'Offline-First Architecture'],
+  frontend: ['React.js', 'Next.js', 'TypeScript', 'Responsive Design', 'SSR/SSG'],
   mobile: ['React Native', 'Expo', 'iOS & Android Publishing'],
-  backend: ['Node.js', 'Express.js', 'RESTful APIs', 'Database Design'],
-  leadership: ['Team Management', 'Code Reviews', 'Agile Methodology'],
+  backend: ['Node.js', 'Express.js', 'RESTful APIs', 'GraphQL', 'Database Design'],
+  leadership: ['Team Management', 'Code Reviews', 'Agile Methodology', 'Mentorship'],
   specialties: [
     'Payment Gateway Integration',
     'Real-time Applications',
